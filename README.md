@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [jackmorrison.xyz/writing](jackmorrison.xyz/writing)
 
-- 📫 How to reach me **jackmorrison.xyz/contact**
+- 📫 Reach me at[jackmorrison.xyz/contact](jackmorrison.xyz/contact)
 
 - 📄 Know about my experiences [jackmorrison.xyz/cv](jackmorrison.xyz/cv)
 
