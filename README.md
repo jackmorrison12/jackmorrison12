@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **anything cool!**
 
-- 👨‍💻 All of my projects are available at [jackmorrison.xyz](jackmorrison.xyz)
+- 👨‍💻 All of my projects are available at [jackmorrison.xyz](https://jackmorrison.xyz)
 
-- 📝 I regularly write articles on [jackmorrison.xyz/writing](jackmorrison.xyz/writing)
+- 📝 I regularly write articles on [jackmorrison.xyz/writing](https://jackmorrison.xyz/writing)
 
-- 📫 Reach me at[jackmorrison.xyz/contact](jackmorrison.xyz/contact)
+- 📫 Reach me at [jackmorrison.xyz/contact](https://jackmorrison.xyz/contact)
 
-- 📄 Know about my experiences [jackmorrison.xyz/cv](jackmorrison.xyz/cv)
+- 📄 Know about my experiences [jackmorrison.xyz/cv](https://jackmorrison.xyz/cv)
 
 - ⚡ Fun fact **I'm currently learning how to skydive!**
 
