@@ -13,7 +13,7 @@
 
 - 📫 Reach me at [jackmorrison.xyz/contact](https://jackmorrison.xyz/contact)
 
-- 📄 Know about my experiences [jackmorrison.xyz/cv](https://jackmorrison.xyz/cv)
+- 📄 Learn about my experience [jackmorrison.xyz/cv](https://jackmorrison.xyz/cv)
 
 - ⚡ Fun fact **I'm currently learning how to skydive!**
 
