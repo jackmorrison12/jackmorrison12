@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
 <h3 align="center">A software engineer from London!</h3>
 
-- 🔭 I’m currently working on **my Masters Degree in Computing at Imperial**
+- 🔭 I’ve recently completed **my Masters Degree in Computing at Imperial**
 
 - 👨‍💻 All of my projects are available at [jackmorrison.xyz/projects](https://jackmorrison.xyz/projects)
 
